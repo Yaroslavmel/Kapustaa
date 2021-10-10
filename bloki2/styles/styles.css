@@ -1,0 +1,154 @@
+body { background-image: url(/Users/Kyrylo/Desktop/programe/bloki2/7.jpg);
+     }
+     
+img{
+    height: 100%;
+    width: 100%;
+}
+.div1 {
+   
+    height: 47%;
+    width:18%;
+    border: 5px  solid rgb(17, 17, 17); 
+    background-color: blueviolet;
+    position: absolute ;
+margin-left: 14%;
+  margin-top: 1%;
+ 
+}
+
+.div1 span {
+
+    background:  rgba(255, 255, 255, 0.7);;
+    color: rgb(0, 0, 0);
+    border-radius: 2px;
+    position: absolute;
+    right: 0;
+    bottom: 14px;
+    font-size: 17px;
+    padding: 23px 20px;
+}
+
+.div2 {
+   
+    height: 47%;
+    width: 18%;
+    border: 5px solid rgb(48, 2, 10);
+    background-color: cornflowerblue;
+    position: absolute;
+    margin-left: 40.8% ;
+    margin-top: 1%;
+    
+    
+}
+.div2 span {
+
+    background:  rgba(255, 255, 255, 0.7);;
+    color: rgb(0, 0, 0);
+    border-radius: 2px;
+    position: absolute;
+    right: 0;
+    bottom: 14px;
+    font-size: 17px;
+    padding: 23px 20px;
+}
+
+.div3 {
+   
+    height: 47%;
+    width: 18%;
+    border: 5px solid rgb(14, 13, 13);
+    background-color: darkblue;
+    position: absolute ;
+    margin-left: 66.5% ;
+    margin-top: 1%;
+}
+.div3 span {
+
+    background:  rgba(255, 255, 255, 0.7);;
+    color: rgb(0, 0, 0);
+    border-radius: 2px;
+    position: absolute;
+    right: 0;
+    bottom: 30px;
+    font-size: 20px;
+    padding: 23px 20px;
+}
+
+.div4 {
+   
+    height:45%;
+    width: 18%;
+    border: 5px solid rgb(2, 2, 2);
+    background-color: darkturquoise;
+    position: absolute ;
+    margin-top: 25.75% ;
+    margin-left: 14%;
+
+}
+.div4 span {
+
+    background:  rgba(255, 255, 255, 0.7);;
+    color: rgb(0, 0, 0);
+    border-radius: 2px;
+    position: absolute;
+    left: 0;
+    bottom: 30px;
+    font-size: 17px;
+    padding: 23px 20px;
+}
+.div5 {
+   
+    height: 45%;
+    width: 18%;
+    border: 5px solid rgb(19, 18, 18);
+    background-color: deeppink;
+    position: absolute ;
+    margin-top: 25.75% ;
+    margin-left: 40.8%;
+}
+.div5 span {
+
+    background:  rgba(255, 255, 255, 0.7);;
+    color: rgb(0, 0, 0);
+    border-radius: 2px;
+    position: absolute;
+   left: 0;
+    bottom: 0px;
+    font-size: 17px;
+    padding: 23px 20px;
+}
+.div5 h6 {
+
+    background:  rgba(255, 255, 255, 0.7);;
+    color: rgb(0, 0, 0);
+    border-radius: 2px;
+    position: absolute;
+   right: 0;
+    bottom: 160px;
+    font-size: 15px;
+    padding: 23px 20px;
+}
+
+
+.div6 {
+   
+    height: 45%;
+    width: 18%;
+    border: 5px solid rgb(19, 18, 18);
+    background-color: deeppink;
+    position: absolute ;
+    margin-top: 25.75% ;
+    margin-left: 66.5%;
+}
+.div6 span {
+
+    background:  rgba(255, 255, 255, 0.7);;
+    color: rgb(0, 0, 0);
+    border-radius: 2px;
+    position: absolute;
+    left: 0;
+    bottom: 30px;
+    font-size: 17px;
+    padding: 23px 20px;
+}
